@@ -1,4 +1,11 @@
-### Hi there 👋
+### Kia Orana! 👋
+My name is Kayla and I am a fourth year student, in my penultamate year, speacialising in Software Engineering at The University of Auckland.
+
+- ⚡ I am interested in front-end deveopment, web development and UX research.
+- 🔭 I am currently working on Android app development.
+- 🌱 I’m currently learning ReactJs.
+- 📫 How to reach me: kaylak106@hotmail.co.nz | LinkedIn: https://www.linkedin.com/in/kayla-kautai
+- 👩‍💼 Portfolio: https://kaylakautai.portfoliobox.net/
 
 <!--
 **kkau201/kkau201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
